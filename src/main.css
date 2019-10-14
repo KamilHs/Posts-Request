@@ -1,0 +1,11 @@
+ul{
+    list-style: none;
+}
+
+h1{
+    text-align: center;
+}
+
+li{
+    border-bottom: 1px solid red;
+}
